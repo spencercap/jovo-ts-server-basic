@@ -1,5 +1,5 @@
 {
-  "name": "linr-jovo-ts-server",
+  "name": "jovo-ts-server-basic",
   "author": "@thencc",
   "version": "3.0.0",
   "description": "a server built on jovo for linr",
